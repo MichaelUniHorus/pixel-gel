@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "aseprite": {
+      "command": "python",
+      "args": ["-m", "aseprite_mcp"],
+      "env": {
+        "ASEPRITE_PATH": "C:\\Program Files\\Aseprite\\Aseprite.exe"
+      }
+    }
+  }
+}

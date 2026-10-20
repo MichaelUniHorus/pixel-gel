@@ -1,0 +1,11 @@
+# Aseprite backup/recovery files
+*.aseprite-backup
+*.aseprite~
+
+# Devin local config (personal keys/overrides)
+.devin/mcp_config.local.json
+.devin/config.local.json
+
+# OS noise
+Thumbs.db
+Desktop.ini
